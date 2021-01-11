@@ -1,0 +1,59 @@
+img {
+    height: 200px;
+}
+
+.Pawsitively {
+    background-color: lightblue;
+    padding: 20px;
+    border: 15px solid blue;
+}
+
+.Troy {
+    background-color: red;
+    padding: 25px;
+    margin: 15px;
+    border: 15px solid darkred;
+}
+
+.Rich {
+ background-color: lightgreen;
+  padding: 15px;
+    margin:10px;
+    border: 15px solid green;
+    
+}
+
+.Duch {
+    background-color: orange;
+    padding: 20px;
+    margin: 15px;
+    border: 15px dashed yellow;
+    
+}
+
+
+.dogs{
+    background-color:pink;
+    border:10px solid red;
+    padding: 10px;
+    margin:10px;
+}
+
+.cats{
+    background-color: aqua;
+padding:20px;
+    margin:15px;
+    border:10px solid lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
